@@ -5,3 +5,7 @@ Unofficial mirror of BirdNET-Analyzer models. This repo exists to assist in vers
 ## License
 
 All models are licensed under licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+## Source
+
+https://github.com/kahst/BirdNET-Analyzer

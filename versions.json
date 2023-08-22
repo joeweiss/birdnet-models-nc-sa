@@ -1,0 +1,29 @@
+[
+  {
+    "version": "2.4",
+    "commit_sha": "b32cdc54c9f2344b028e6378e9eae66e39110d27",
+    "repo": "https://github.com/kahst/BirdNET-Analyzer/",
+    "date": "2023-06-01",
+    "labels": "models/2.4/BirdNET_GLOBAL_6K_V2.4_Labels.txt",
+    "model_fp32": "models/2.4/BirdNET_GLOBAL_6K_V2.4_Model_FP32.tflite",
+    "model_fp16": "models/2.4/BirdNET_GLOBAL_6K_V2.4_MData_Model_FP16.tflite"
+  },
+  {
+    "version": "2.3",
+    "commit_sha": "3d88880b82acb826e4a94c63b7d4f400a1e1efaa",
+    "repo": "https://github.com/kahst/BirdNET-Analyzer/",
+    "date": "2023-04-26",
+    "labels": "models/2.3/BirdNET_GLOBAL_3K_V2.3_Labels.txt",
+    "model_fp32": "models/2.3/BirdNET_GLOBAL_3K_V2.3_Model_FP32.tflite",
+    "model_fp16": "models/2.3/BirdNET_GLOBAL_3K_V2.3_MData_Model_FP16.tflite"
+  },
+  {
+    "version": "2.2",
+    "commit_sha": "cb3707813f4465922823bcfba31358f6c5d0c370",
+    "repo": "https://github.com/kahst/BirdNET-Analyzer/",
+    "date": "2022-08-16",
+    "labels": "models/2.2/BirdNET_GLOBAL_3K_V2.2_Labels.txt",
+    "model_fp32": "models/2.2/BirdNET_GLOBAL_3K_V2.2_Model_FP32.tflite",
+    "model_fp16": "models/2.2/BirdNET_GLOBAL_3K_V2.2_MData_Model_FP16.tflite"
+  }
+]
