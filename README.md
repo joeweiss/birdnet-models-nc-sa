@@ -24,7 +24,7 @@ For more information on BirdNET analyzers, please see the project repositories b
 
 ## About `birdnet-models-nc-sa`
 
-`birdnet-models-nc-sa` is maintained by Joe Weiss. Contributions are welcome. Please check current pull requests before opening a pull request for a new model version.
+`birdnet-models-nc-sa` is maintained by Joe Weiss. Contributions are welcome. Please check current [pull requests](https://github.com/joeweiss/birdnet-models-nc-sa/pulls) before opening a pull request for a new model version.
 
 ### Project Goals
 
