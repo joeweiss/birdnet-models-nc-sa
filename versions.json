@@ -25,5 +25,14 @@
     "labels": "models/2.2/BirdNET_GLOBAL_3K_V2.2_Labels.txt",
     "model_fp32": "models/2.2/BirdNET_GLOBAL_3K_V2.2_Model_FP32.tflite",
     "model_fp16": "models/2.2/BirdNET_GLOBAL_3K_V2.2_MData_Model_FP16.tflite"
+  },
+  {
+    "version": "2.1",
+    "commit_sha": "e6a976a98cfd8ed17b1eedd59d97e947998710e2",
+    "repo": "https://github.com/kahst/BirdNET-Analyzer/",
+    "date": "2022-04-21",
+    "labels": "models/2.1/BirdNET_GLOBAL_2K_V2.1_Labels.txt",
+    "model_fp32": "models/2.1/BirdNET_GLOBAL_2K_V2.1_Model_FP32.tflite",
+    "model_fp16": "models/2.1/BirdNET_GLOBAL_2K_V2.1_Model_FP16.tflite"
   }
 ]
